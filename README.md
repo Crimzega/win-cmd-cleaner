@@ -5,7 +5,7 @@
 This tool is deobfuscation uses only, the author will not be held responsible for any misuse of this tool.
 
 ## Example:
-The python script can turn all lines of file such as
+The python script can turn all lines of a file such as
 ```
 @%pUBLIc:~89,83%%PUBLic:~5,1%CHo of%PuBlIC:~46,16%f
 %pUBlIC:~14,1%L%pUBliC:~55,17%%publIc:~4,1%
